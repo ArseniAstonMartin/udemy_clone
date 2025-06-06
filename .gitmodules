@@ -1,0 +1,6 @@
+[submodule "course_back"]
+	path = course_back
+	url = https://github.com/ArseniAstonMartin/course_back
+[submodule "course_front"]
+	path = course_front
+	url = https://github.com/ArseniAstonMartin/course_front
